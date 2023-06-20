@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ariitooo
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> mahtmome@gmail.com
 
 <!---
