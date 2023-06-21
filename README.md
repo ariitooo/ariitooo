@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ariitooo
-- 👀 I’m interested in coding...
+- 👀 I’m interested in coding and music...
 - 🌱 I’m currently learning python and PHP
 - 📫 How to reach me --> mahtmome@gmail.com
 
