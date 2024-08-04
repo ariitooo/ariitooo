@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariitooo
 - 👀 I’m interested in coding and music...
-- 🌱 I’m currently learning python and PHP
+- 🌱 I’m currently learning AI 
 - 📫 How to reach me --> mahtmome@gmail.com
 
 <!---
